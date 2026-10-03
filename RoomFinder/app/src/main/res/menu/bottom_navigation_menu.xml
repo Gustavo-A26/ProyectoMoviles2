@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navHome"
+        android:title="Inicio"
+        android:icon="@drawable/outline_add_home_24"
+        android:checked="true" />
+    <item
+        android:id="@+id/navSearch"
+        android:title="Buscar"
+        android:icon="@drawable/search" />
+    <item
+        android:id="@+id/navFavorites"
+        android:title="Favoritos"
+        android:icon="@drawable/heart" />
+    <item
+        android:id="@+id/navMessages"
+        android:title="Mensajes"
+        android:icon="@drawable/outline_chat_24" />
+    <item
+        android:id="@+id/navProfile"
+        android:title="Perfil"
+        android:icon="@drawable/outline_article_person_24" />
+</menu>

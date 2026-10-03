@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Azul oscuro: fondos principales / navegación -->
+    <color name="color1">#071A2B</color>
+    <!-- Azul profundo: elementos importantes -->
+    <color name="color2">#0A2A43</color>
+    <!-- Azul medio: títulos y textos principales -->
+    <color name="color3">#0B4F71</color>
+    <!-- Azul claro: elementos secundarios -->
+    <color name="color4">#168AAD</color>
+    <!-- Fondo general de la aplicación -->
+    <color name="color5">#F7F9FC</color>
+    <!-- Fondo de tarjetas -->
+    <color name="color6">#FFFFFF</color>
+    <!-- Naranja: acciones / botones -->
+    <color name="color7">#FF6B35</color>
+</resources>

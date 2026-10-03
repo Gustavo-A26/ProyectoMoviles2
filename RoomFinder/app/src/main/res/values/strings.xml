@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RoomFinder</string>
+    <string name="app_name_first">Room</string>
+    <string name="app_name_second">Finder</string>
+    <string name="button_login">Iniciar sesión</string>
+    <string name="button_register">Crear una cuenta</string>
+    <string name="label_password">Contraseña</string>
+    <string name="input_text_password">********</string>
+    <string name="label_email">Correo electrónico</string>
+    <string name="input_text_email">tu.correo@gmail.com</string>
+    <string name="forgot_password_text">¿Olvidó su contraseña?</string>
+    <string name="title_login">Iniciar sesión</string>
+    <string name="label_confirm_password">Confirmar contraseña</string>
+    <string name="label_full_name">Nombre</string>
+    <string name="input_full_name">¿Cuál es tu nombre?</string>
+    <string name="label_phone">Número de teléfono</string>
+    <string name="input_phone">Ej: 3117983732</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="not_has_account">¿Aún no tienes una cuenta?</string>
+    <string name="button_view_all_text">Ver todos</string>
+    <string name="card_greeting_icon">Icono de la card de saludo</string>
+    <string name="card_greeting_description">¿Dónde quieres vivir este nuevo semestre académico?</string>
+    <string name="card_greeting_first_title">Hola,</string>
+    <string name="card_greeting_second_title">Gustavo</string>
+    <string name="dashboard_customer_title">Alojamientos recomendados</string>
+    <string name="card_room_title">Habitación amoblada cerca del Campus Central</string>
+    <string name="card_room_description">Carrera 9 #13-30, X barrio</string>
+    <string name="card_room_image_description">Imagen de la card de habitaciones</string>
+</resources>
